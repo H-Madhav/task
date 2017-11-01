@@ -10,8 +10,8 @@ There are two methods for getting started with this repo.
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone Link
-> cd task
+> git clone https://github.com/madhav1993/task.git
+> cd task-master
 > npm install
 > npm start
 ```
