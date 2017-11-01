@@ -1,0 +1,35 @@
+.container {
+  padding-top: 2rem;
+}
+
+.container h1 {
+  color: #80bdff;
+  text-align: center;
+  margin-bottom: 2rem;
+  font-size: 3rem;
+}
+
+@media only screen and (max-width: 500px) {
+    .container h1 {
+        font-size: 2rem;
+    }
+}
+
+.btn-primary {
+  margin-right: 0.2rem;
+  margin-bottom: 0.2rem;
+}
+
+.btnGroup {
+  min-width: 11rem;
+}
+
+.container > .btn-info {
+  float: right;
+  margin-bottom: 1rem;
+}
+
+.thankYou {
+  text-align: center;
+  margin-top: 2rem;
+}
