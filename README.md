@@ -24,3 +24,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm install
 > npm start
 ```
+#### Functionality that are still not implemented
+1. Form Validation
+2. Edit Option
+3. Problem with Delete Option
